@@ -1,2 +1,5 @@
 # hello-world
-This is my first program in github
+
+Hi guys,
+
+Welcome to China. This is a very nice country.
